@@ -152,8 +152,8 @@ dependencies {
 }
 
 mixin {
-    add sourceSets.main, 'mixins.molly_the_warrior.refmap.json'
-    config 'molly_the_warrior.mixins.json'
+    add sourceSets.main, 'mixins.princess_the_darling.refmap.json'
+    config 'princess_the_darling.mixins.json'
     debug.verbose = true
     debug.export = true
 }

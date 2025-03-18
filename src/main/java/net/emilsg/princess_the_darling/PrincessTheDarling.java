@@ -1,4 +1,4 @@
-package net.emilsg.molly_the_warrior;
+package net.emilsg.princess_the_darling;
 
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -12,13 +12,13 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(MollyTheWarrior.MODID)
-public class MollyTheWarrior
+@Mod(PrincessTheDarling.MODID)
+public class PrincessTheDarling
 {
-    public static final String MODID = "molly_the_warrior";
+    public static final String MODID = "princess_the_darling";
 
 
-    public MollyTheWarrior(FMLJavaModLoadingContext context)
+    public PrincessTheDarling(FMLJavaModLoadingContext context)
     {
         IEventBus modEventBus = context.getModEventBus();
 

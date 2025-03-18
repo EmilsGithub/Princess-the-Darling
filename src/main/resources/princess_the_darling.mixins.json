@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.emilsg.princess_the_darling.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.princess_the_darling.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+    "WolfEntityRendererMixin"
+  ],
+  "minVersion": "0.8.5"
+}
